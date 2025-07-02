@@ -1,2 +1,2 @@
 # Scrolly-Ukraine
-scrolly map practive
+Scrolly map practice with Ukraine bombings map created in LEDE 2025
